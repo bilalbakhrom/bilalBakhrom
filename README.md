@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalbakhrom/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@bilalbakhrom)
+[![Send Email](https://img.shields.io/badge/Send_Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bilalbakhrom@gmail.com)
 
 ## About Me
 
@@ -16,6 +17,9 @@ I'm an accomplished iOS and Flutter Developer with extensive experience creating
 - **Patterns:** MVC, MVP, MVVM, MVVM-C, VIPER, REDUX and Design Patterns.
 - **Testing:** Unit and UI Testing.
 - **Methodologies**: OOP, SOLID, DRY
+
+## Education
+- **Bachelor's Degree** in Computer Engineering, Politecnico di Torino
 
 ## My Projects
 
