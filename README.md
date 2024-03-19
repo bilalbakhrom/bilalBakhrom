@@ -6,11 +6,11 @@
 
 ## About Me
 
-I'm an accomplished iOS and Flutter Developer with extensive experience creating and launching applications. I am skilled at solving complex problems, following industry standards, and understanding mobile development. My enthusiasm lies in crafting innovative and user-friendly applications and thriving in collaborative environments, and I am committed to continuous learning, making me well-prepared to drive successful projects.
+I'm an accomplished iOS developer with extensive experience creating and launching applications. I am skilled at solving complex problems, following industry standards, and understanding mobile development. My enthusiasm lies in crafting innovative and user-friendly applications and thriving in collaborative environments. I am committed to continuous learning, making me well-prepared to drive successful projects.
 
 ### Skills
 
-- **Languages:** Swift, Dart, Objective-C, C, Java.
+- **Languages:** Swift, Objective-C, C, Java.
 - **iOS SDKs:** UIKit, SwiftUI, Combine, WidgetKit, AVKit, PhotoKit, CoreAnimation, CoreData, MapKit, XCTest, and more.
 - **Tools:** Xcode, Android Studio, Postman, GitHub, GitLab, Jira, Adobe, Figma, Sketch.
 - **Multithreading:** Threads, Race Conditions, Deadlock and Memory Leaks.
@@ -32,7 +32,7 @@ Here are a few highlights of my work:
   Enhance your pelvic floor health with personalized Kegel exercises designed for men, promoting strength and wellness.
 - [Disney+ Hotstar](https://apps.apple.com/id/app/disney-hotstar/id1524156685)
 
-  Immerse yourself in the world of entertainment with Disney+ Hotstar, offering a diverse range of movies, TV shows, and exclusive Disney content on-demand.
+  Immerse yourself in the entertainment world with Disney+ Hotstar, which offers a diverse range of movies, TV shows, and exclusive Disney content on demand.
 
 ## Blog
 
