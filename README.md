@@ -14,7 +14,7 @@ I have developed and released 25 applications on the App Store, demonstrating my
 - **iOS SDKs:** SwiftUI, UIKit, Combine, Network, WidgetKit, AVKit, PhotoKit, MapKit, XCTest, Core Animation, Core Bluetooth, CoreData, GCD and more.
 - **Third Party SDKs:** Google SDKs, Alamofire, Adapty, Adjust, AppsFlyer, Meta SDKs, OneSignal, Batch, MixPanel, Nuke, SwiftLint and more.
 - **Tools:** Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
-- **Patterns:** MVC, MVP, MVVM, MVVM-C, VIPER, REDUX and Design Patterns.
+- **Patterns:** MVC, MVP, MVVM, VIPER, REDUX, Coordinator and Design Patterns.
 - **Testing:** Unit and UI Testing.
 - **Methodologies**: OOP, SOLID, DRY, Design Patterns
 - **Others**: ARC, Threads, Race Conditions, Deadlock, Auto Layout
