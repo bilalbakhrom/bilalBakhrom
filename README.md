@@ -6,17 +6,18 @@
 
 ## About Me
 
-I'm an accomplished iOS developer with extensive experience creating and launching applications. I am skilled at solving complex problems, following industry standards, and understanding mobile development. My enthusiasm lies in crafting innovative and user-friendly applications and thriving in collaborative environments. I am committed to continuous learning, making me well-prepared to drive successful projects.
+I have developed and released 25 applications on the App Store, demonstrating my ability to adapt, passion for development, and leadership skills. With proficiency in Swift and frameworks like UIKit and SwiftUI, I am skilled at solving complex iOS development tasks by following industry best practices and understanding the mobile development process. I have extensive experience with multiple iOS SDKs, commonly used third-party frameworks, Git, REST, multithreading, algorithms, and data structures.
 
 ### Skills
 
-- **Languages:** Swift, Objective-C, C, Java.
-- **iOS SDKs:** UIKit, SwiftUI, Combine, WidgetKit, AVKit, PhotoKit, CoreAnimation, CoreData, MapKit, XCTest, and more.
-- **Tools:** Xcode, Android Studio, Postman, GitHub, GitLab, Jira, Adobe, Figma, Sketch.
-- **Multithreading:** Threads, Race Conditions, Deadlock and Memory Leaks.
+- **Languages:** Swift, JavaScript, Objective-C, C.
+- **iOS SDKs:** SwiftUI, UIKit, Combine, Network, WidgetKit, AVKit, PhotoKit, MapKit, XCTest, Core Animation, Core Bluetooth, CoreData, GCD and more.
+- **Third Party SDKs:** Google SDKs, Alamofire, Adapty, Adjust, AppsFlyer, Meta SDKs, OneSignal, Batch, MixPanel, Nuke, SwiftLint and more.
+- **Tools:** Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
 - **Patterns:** MVC, MVP, MVVM, MVVM-C, VIPER, REDUX and Design Patterns.
 - **Testing:** Unit and UI Testing.
-- **Methodologies**: OOP, SOLID, DRY
+- **Methodologies**: OOP, SOLID, DRY, Design Patterns
+- **Others**: ARC, Threads, Race Conditions, Deadlock, Auto Layout
 
 ## Education
 - **Bachelor's Degree** in Computer Engineering, Politecnico di Torino
