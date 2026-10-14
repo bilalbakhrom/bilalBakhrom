@@ -1,47 +1,41 @@
-# Hello, I'm Bilal! 👋
+# Hi, I'm Bilal 👋
 
+**Senior iOS & React Native Engineer | AI Native | 30+ apps**
+
+[![Website](https://img.shields.io/badge/bilalbakhrom.com-111418?style=flat&logo=safari&logoColor=white)](https://bilalbakhrom.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalbakhrom/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@bilalbakhrom)
-[![Send Email](https://img.shields.io/badge/Send_Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bilalbakhrom@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bilalbakhrom@gmail.com)
 
-## About Me
+Ten years in Swift and 30+ apps shipped. I build for iPhone, iPad, Apple Watch and Apple Vision Pro, ship React Native apps to the App Store and Google Play, and design in Figma. I plan, build and review with Claude Code and Codex.
 
-I have developed and released 25 applications on the App Store, demonstrating my ability to adapt, passion for development, and leadership skills. With proficiency in Swift and frameworks like UIKit and SwiftUI, I am skilled at solving complex iOS development tasks by following industry best practices and understanding the mobile development process. I have extensive experience with multiple iOS SDKs, commonly used third-party frameworks, Git, REST, multithreading, algorithms, and data structures.
+Lead iOS Engineer at EPAM Systems since 2021. Based in Tashkent, UTC+5.
 
-### Skills
+## Apps I have shipped
 
-- **Languages:** Swift, JavaScript, Objective-C, C.
-- **iOS SDKs:** SwiftUI, UIKit, Combine, Network, WidgetKit, AVKit, PhotoKit, MapKit, XCTest, Core Animation, Core Bluetooth, CoreData, GCD and more.
-- **Third Party SDKs:** Google SDKs, Alamofire, Adapty, Adjust, AppsFlyer, Meta SDKs, OneSignal, Batch, MixPanel, Nuke, SwiftLint and more.
-- **Tools:** Xcode, Postman, Git, Jira, Figma, Adobe, Sketch.
-- **Patterns:** MVC, MVP, MVVM, VIPER, REDUX, Coordinator and Design Patterns.
-- **Testing:** Unit and UI Testing.
-- **Methodologies**: OOP, SOLID, DRY, Design Patterns
-- **Others**: ARC, Threads, Race Conditions, Deadlock, Auto Layout
+| App | What it is | Proof |
+| --- | --- | --- |
+| [Hale](https://apps.apple.com/us/app/hale-breathwork-calm-sleep/id6789019367) | Breathwork for iPhone, iPad, Apple Watch and Apple Vision Pro, in 12 languages | My own app |
+| [Mindle](https://apps.apple.com/us/app/mindle-habit-tracker-streak/id6737978299) | Habit tracker for iPhone, iPad and Apple Watch, in 13 languages | 4.8 on the US App Store |
+| [Minnect](https://apps.apple.com/us/app/minnect/id1583104411) | Paid expert video calls. Twilio video, WebSocket chat, Stripe payments | 4.9 on the US App Store, 2,400+ ratings |
+| [KegelX](https://apps.apple.com/us/app/kegelx-kegel-trainer-for-men/id6755078670) | Pelvic floor trainer, Swift 6 and SwiftUI, in 11 languages | My own app |
+| [KegelFit](https://apps.apple.com/us/app/men-kegel-exercises-kegelfit/id1630828102) | Pelvic floor trainer | 4.8 on the US App Store |
+| [JioHotstar](https://apps.apple.com/in/app/jiohotstar/id934459219) | iOS engineer on Disney+ Hotstar, through EPAM, 2021 to 2022 | 4.5 in India, 1.9M+ ratings |
 
-## Education
-- **Bachelor's Degree** in Computer Engineering, Politecnico di Torino
+More at [bilalbakhrom.com](https://bilalbakhrom.com) and [lunza.co](https://lunza.co).
 
-## My Projects
+## Stack
 
-Here are a few highlights of my work:
-- [MINNECT](https://apps.apple.com/us/app/minnect/id1583104411):
+- **iOS:** Swift, SwiftUI, UIKit, Swift Concurrency, Combine, SwiftData, Core Data, CloudKit, StoreKit 2, WidgetKit, watchOS, visionOS
+- **Architecture:** MVVM, TCA, VIPER, modular Swift packages
+- **Cross platform:** React Native, TypeScript, Next.js, Django
+- **Shipping:** XCTest, Swift Testing, GitHub Actions, Bitrise, Fastlane, TestFlight
+- **Design:** Figma for mobile and web UI, UX flows and design systems
 
-  Minnect is a networking platform that fosters meaningful connections, allowing users to build a professional community and collaborate effortlessly.
-- [KegelFit: Mens Health Training](https://apps.apple.com/us/app/kegelfit-mens-health-training/id1630828102):
+## Open source
 
-  Enhance your pelvic floor health with personalized Kegel exercises designed for men, promoting strength and wellness.
-- [Disney+ Hotstar](https://apps.apple.com/id/app/disney-hotstar/id1524156685)
+[SoundControlKit](https://github.com/bilalbakhrom/SoundControlKit): a Swift package for audio recording and playback on iOS.
 
-  Immerse yourself in the entertainment world with Disney+ Hotstar, which offers a diverse range of movies, TV shows, and exclusive Disney content on demand.
+## Writing
 
-## Blog
-
-Check out my latest articles on [Medium](https://medium.com/@bilalbakhrom).
-
-## Let's Connect
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bilalbakhrom/). I'm open to discussing how my skills align with your company's goals.
-
-Thank you for visiting my GitHub profile! 😊
-
+Articles on iOS engineering at [medium.com/@bilalbakhrom](https://medium.com/@bilalbakhrom).
